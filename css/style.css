@@ -13,7 +13,7 @@
   
   a{
     text-decoration: none;
-    color: #4472C4;
+    color:gold;
   }
   
   a:hover{
@@ -41,7 +41,7 @@
   }
   
   .text-darkblue{
-    color: #002060;
+    color: gold;
   }
   
   .text-uppercase{
@@ -103,7 +103,7 @@
   .header{
     grid-area: header;
     padding: 50px;
-    background-color: #F2F2F2;
+    background-color: turquoise;
     display: flex;
     flex-direction: column;
     justify-content: center;
